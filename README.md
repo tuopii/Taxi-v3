@@ -1,2 +1,2 @@
-# Taxi-v3-Q-learning
-Simple reinforcement learning.
+# Taxi-v3
+Simple reinforcement learning using Q-learning.
